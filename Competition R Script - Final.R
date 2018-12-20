@@ -89,7 +89,7 @@ write.csv(dfAVG2, file = "NightComp1.csv")
 date_line <- (dfAVG3$time[574])
 
 
-#This line is optional - gives better looking plots, while making exporting more diffucult. 
+#This line is optional - gives better looking plots, while making exporting more difficult. 
 CairoWin()
 
 ## Charts Average Fume Hood Position for Each lab over time, Auto regression function ##
